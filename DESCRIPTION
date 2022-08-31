@@ -1,0 +1,13 @@
+Package: TallerEv1
+Type: Package
+Title: Taller evaluado 1
+Version: 0.1.0
+Author: Eduardo Lobos Pacheco
+Maintainer: Eduardo Lobos Pacheco <elobos2018@alu.uct.cl>
+Description: Paquete creado como respuesta al taller evaluado 1 del ramo de topicos 2, este contiene 6 algoritmos implementados en C++
+License: GNU General Public License
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 1.0.9)
+LinkingTo: Rcpp
+RoxygenNote: 7.2.1
